@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amitgiri772
+- 👋 Hi, I’m Amit Giri
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ...
