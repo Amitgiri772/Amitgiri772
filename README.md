@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amit Giri
-- 👀 I’m interested in Programming and Problem Solving
-- 🌱 I’m currently learning Data Structures and Algorithms, System Design
-- 💞️ I’m looking to collaborate on Microservices with Spring Boot 
+- 👀 I’m interested in Backend Development, REST APIs with Java and Microservices Architecture. I enjoy problem solving.
+- 🌱 I’m currently learning Data Structures and Algorithms, System Design.
+- 💞️ I’m looking to collaborate on REST APIs, Microservices with Spring Boot. 
 - 📫 How to reach me ... Please drop a note at amitgiri772@gmail.com
 
 <!---
